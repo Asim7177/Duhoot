@@ -1,3 +1,3 @@
 # Duhoot
  
-> Live demo [here](https://uranos.netlify.app/).
+> Live demo [here](https://duhoot.netlify.app/).
